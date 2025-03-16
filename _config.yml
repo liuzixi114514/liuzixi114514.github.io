@@ -102,3 +102,6 @@ theme: ayer
 deploy:
   type: git
   repo: https://github.com/liuzixi114514/liuzixi114514.github.com.git
+  theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
